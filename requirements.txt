@@ -1,0 +1,17 @@
+streamlit==1.26.0
+pandas==1.5.3
+plotly==5.19.0
+numpy==1.23.5
+fpdf==1.7.2
+requests==2.32.3
+
+# NeuralProphet & its core dependencies
+torch==1.13.1+cpu
+torchaudio==0.13.1
+torchvision==0.14.1
+pytorch-lightning==1.9.5
+neuralprophet==0.5.3
+
+# Optional visualization and performance
+matplotlib==3.7.1
+scipy==1.10.1
